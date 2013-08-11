@@ -39,9 +39,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/logentries/logentries-jenkins.git</connection>
-		<developerConnection>scm:git:git@github.com:logentries/logentries-jenkins.git</developerConnection>
-		<url>http://github.com/logentries/logentries-jenkins</url>
+		<connection>scm:git:git://github.com/jenkinsci/logentries-plugin.git</connection>
+		<developerConnection>scm:git:git@github.com:jenkinsci/logentries-plugin.git</developerConnection>
+		<url>http://github.com/jenkinsci/logentries-plugin.git</url>
 	</scm>
 
 	<repositories>
