@@ -9,7 +9,7 @@
 	</parent>
 
 	<artifactId>logentries</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>hpi</packaging>
 
 
